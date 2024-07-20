@@ -1,0 +1,68 @@
+header {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border-bottom: 2px solid lightgray;
+}
+
+
+.header-list {
+  display: flex;
+  justify-content: center;
+  gap: 300px;
+}
+
+.first-item {
+    
+  color: #797777;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: 0.42px;
+  text-transform: uppercase;
+}
+
+.second-item {
+    color: rgb(57, 175, 248);
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: 0.42px;
+  text-transform: uppercase;
+}
+
+.about {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.about-pro {
+    display: flex;
+    justify-content: center;
+}
+.about-block {
+    margin-left: 30px;
+}
+
+.about-text {
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: 0.42px;
+  text-transform: uppercase;
+}
+
+.about-description {
+    color: #797777;
+    width: 300px;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: 0.42px;
+  margin-top: 10px;
+  margin-bottom: 15px;
+}
+
