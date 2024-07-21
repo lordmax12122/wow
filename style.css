@@ -70,3 +70,27 @@ header {
   padding-top: 60px;
 }
 
+
+.warning {
+  padding: 200px 0 200px 0;
+}
+
+.warning-img-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.warning-img {
+  width: 153px;
+  display: flex;
+
+}
+
+.warning-text {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  font-size: 50px;
+}
+
